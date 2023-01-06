@@ -1,7 +1,7 @@
 name="rao"
 echo "$name"
 
-if [[ "$name" == "rao" ]];
+if [ "$name" = "rao" ];
 then
   echo "welcome paparao"
 else
@@ -10,7 +10,7 @@ fi
 
 sis=$1
 
-if [[ "$sis" -eq "prema" ]];
+if [ "$sis" = "prema" ];
 then
   echo "sissy"
 else
