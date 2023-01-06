@@ -1,4 +1,4 @@
-name=rao
+name="rao"
 echo "$name"
 
 if [ $name == rao]
