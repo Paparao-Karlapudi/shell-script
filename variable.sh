@@ -1,16 +1,16 @@
 name="rao"
 echo "$name"
 
-if [ 2 -eq 2 ]
+if [ "$name" == "rao" ]
 then
   echo "welcome paparao"
 else
   echo "unauth entry"
-
 fi
+
 sis=$1
 
-if [ 3 -eq 3 ]]
+if [ "$sis" -eq "prema" ]]
 then
   echo "sissy"
 else
