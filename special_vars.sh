@@ -16,7 +16,7 @@ example(){
   echo "# -$#" #it gives the number of given arguments as o/p
 
 }
-
+#blank
 example
 
 #Note: here the function do
